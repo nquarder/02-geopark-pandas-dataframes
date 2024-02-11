@@ -1,4 +1,4 @@
-# geopark-02-pandas-dataframes
+# 02-geopark-pandas-dataframes
 Pandas dataframes template repository for GeoPark workshops 2024.
 
 1. **Fork** this repository (`Fork` button on the upper right).
